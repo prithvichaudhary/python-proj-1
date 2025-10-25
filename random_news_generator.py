@@ -1,6 +1,9 @@
 # new comment 
 import random 
 
+
+
+#teaching kids about new branches and hwo to pull it in our main  
 subjects=["Rahul Gandhi",
           "Prithvi Chaudhary",
           "Virat Kohli",
