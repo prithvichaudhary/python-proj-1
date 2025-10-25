@@ -1,5 +1,9 @@
+# new comment 
 import random 
 
+
+
+#teaching kids about new branches and hwo to pull it in our main  
 subjects=["Rahul Gandhi",
           "Prithvi Chaudhary",
           "Virat Kohli",
@@ -33,5 +37,6 @@ while True:
     response = input("Do you want to continue generating the headlines (yes/no)").strip().lower()
     if response == 'no':
         break
-print("Thankyou for generating this headline have a nice day !!!!!!! ")
+print("Thankyou for generating this headline , have a nice day !!!!!!! ")
+#this file will have comment and will be added toonly future_updation and not in main branch 
 
